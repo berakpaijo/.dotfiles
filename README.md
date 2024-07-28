@@ -1,2 +1,2 @@
 # .dotfiles
-my .config files
+copy those to your `.conf` files
